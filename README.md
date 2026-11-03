@@ -24,6 +24,12 @@ Computer science graduate and freelance writer based in Lahore, Pakistan. I writ
 - **[genelab-student](https://github.com/taha080/genelab-student)** — Interactive biotech toolkit for students: DNA to protein, CRISPR guides, PCR primers, and quizzes. [Live demo](https://taha080.github.io/genelab-student/)
 - **[hook-roaster](https://github.com/taha080/hook-roaster)** — Paste a LinkedIn hook, get a score, a roast, and a stronger rewrite. [Live demo](https://taha080.github.io/hook-roaster/)
 - **[aws-eks-devops-platform](https://github.com/taha080/aws-eks-devops-platform)** — Production-style cloud platform: FastAPI on AWS EKS with Terraform, Docker, Kubernetes/Helm, and GitHub Actions CI/CD. [Live demo](https://taha080.github.io/aws-eks-devops-platform/)
+- **[agent-bot](https://github.com/taha080/agent-bot)** — Your own named AI teammates, locally and free, with a video episode builder. [Live demo](https://taha080.github.io/agent-bot/)
+- **[api-gateway-ratelimit](https://github.com/taha080/api-gateway-ratelimit)** — Free single-binary Go API gateway: API-key auth, per-key token-bucket rate limiting, YAML reverse proxy, Prometheus metrics, and an interactive playground. [Live demo](https://taha080.github.io/api-gateway-ratelimit/)
+- **[ai-agent-mcp](https://github.com/taha080/ai-agent-mcp)** — 100% free AI agent that uses tools (web search, calculator, HTTP fetch) via the Model Context Protocol, powered by the Groq free API or local Ollama.
+- **[rag-docs-assistant](https://github.com/taha080/rag-docs-assistant)** — Free RAG app: ask questions about your uploaded documents and get cited answers (FastAPI, local embeddings, Chroma, Groq free API).
+- **[llm-observability-dashboard](https://github.com/taha080/llm-observability-dashboard)** — 100% free LLM observability: log Groq/Ollama calls (tokens, cost, latency, errors) to SQLite with a FastAPI dashboard. [Live demo](https://taha080.github.io/llm-observability-dashboard/)
+- **[the-comfort-food-karachi](https://github.com/taha080/the-comfort-food-karachi)** — Food business website for a Karachi kitchen: menu with WhatsApp ordering and Karachi-wide cash on delivery. [Live demo](https://taha080.github.io/the-comfort-food-karachi/)
 - **[taha080](https://github.com/taha080/taha080)** — Config files for this GitHub profile.
 
 ## Connect
